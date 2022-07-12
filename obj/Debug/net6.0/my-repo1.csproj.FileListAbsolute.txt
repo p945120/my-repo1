@@ -1,0 +1,15 @@
+C:\my-repo1\bin\Debug\net6.0\my-repo1.exe
+C:\my-repo1\bin\Debug\net6.0\my-repo1.deps.json
+C:\my-repo1\bin\Debug\net6.0\my-repo1.runtimeconfig.json
+C:\my-repo1\bin\Debug\net6.0\my-repo1.dll
+C:\my-repo1\bin\Debug\net6.0\my-repo1.pdb
+C:\my-repo1\obj\Debug\net6.0\my-repo1.csproj.AssemblyReference.cache
+C:\my-repo1\obj\Debug\net6.0\my-repo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\my-repo1\obj\Debug\net6.0\my-repo1.AssemblyInfoInputs.cache
+C:\my-repo1\obj\Debug\net6.0\my-repo1.AssemblyInfo.cs
+C:\my-repo1\obj\Debug\net6.0\my-repo1.csproj.CoreCompileInputs.cache
+C:\my-repo1\obj\Debug\net6.0\my-repo1.dll
+C:\my-repo1\obj\Debug\net6.0\refint\my-repo1.dll
+C:\my-repo1\obj\Debug\net6.0\my-repo1.pdb
+C:\my-repo1\obj\Debug\net6.0\my-repo1.genruntimeconfig.cache
+C:\my-repo1\obj\Debug\net6.0\ref\my-repo1.dll
